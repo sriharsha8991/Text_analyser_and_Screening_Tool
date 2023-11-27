@@ -4,6 +4,8 @@
 
 Welcome to the Enhanced Assignment Evaluation Tool, a Python application that simplifies the analysis of text and assignments. This tool leverages various libraries and platforms to provide valuable insights into your text data.
 
+[![Video]()](https://youtu.be/4heZhxM9ZcI)
+
 ## Features
 - **Text Analysis:** Analyze text for word count, sentiment, readability, and more.
 - **Assignment Analysis:** Upload PDF, DOCX, or TXT files for automatic evaluation.
