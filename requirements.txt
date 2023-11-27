@@ -2,7 +2,7 @@ streamlit
 
 fitz
 docx
-
+PyMuPDF
 yake
 spacy
 pandas
